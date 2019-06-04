@@ -1,0 +1,79 @@
+Name: MICHAEL P. BAUMGARTEN
+Address: 134 Charlton Road, Ballston Spa, NY 12020
+E-mail: mb2732@rit.edu
+Cell: 518-421-9638
+Website: www.mbaumgarten.com
+Github: www.github.com/mbaum0193
+
+[OBJECTIVE]
+
+Full-time employement opportunities in cyber security and related fields.
+Available May 2020.
+
+[QUALIFICATIONS SUMMARY]
+
+Two years of co-op experience in software design, development and deployment;
+excellent track record in cross-team collaboration; experience in productization
+of software and hardware capabilities.
+
+[TECHNICAL SKILLS]
+
+* PROGRAMMING: Java, Python, C, C++, ARM Assembly, VHDL, NodeJS/Javascript, SQL,
+NoSQL, golang, rust
+
+* SOFTWARE: Atlassian Tools, Git, SVN, wireshark, IP Suite, AWS, vagrant, virtualbox,
+Eclipse, Microsoft Office, JetBrains IDEs, Altera Quartus, Vivado
+
+* OPERATING SYSTEMS: UNIX, Windows, Macintosh
+
+* HARDWARE: Raspberry Pi, Arduino, ARM mbed, FPGA, IC Design, ESP8266, PCB Design,
+microcontrollers, 
+
+[PROFESSIONAL EXPERIENCE]
+
+Position: Computer Engineering Co-Op
+Employer: ICR, Cincinnati, OH, January 2019-Present
+
+* Collaborated on projects involving low-level networking, C, python, nodejs, and
+digital signal analysis
+
+* Independent work on productization of new capabilities
+
+* Experience in project multitasking and rapid development
+
+Position: Computer Engineering Co-Op
+Employer: Parsons, Centreville, VA, Janary 2018-July 2018
+
+* Experience working on a large-scale product with a cross-fuctional team
+
+* Experience with vm/containing provisioning and deployment
+
+* Developed in object-oriented programming lanaguages (Java) and bash/python scripting
+
+Position: Software Engineering Intern
+Employer: Auto/Mate, Colonie, NY, May 2017-August 2017
+
+* Experience refactoring and modernizing a large dated codebase (COBOL to Java)
+
+* Work AWS Lambda, S3, Cloud Formation, and other cloud-base tools
+
+* RESTful API design and deployment
+
+Position: Teaching Assistant
+Employer: Rochester Institute of Technology, Rochester, NY, Janauary 2017-Present
+
+[EDUCATION]
+
+* Bachelor of Science in Computer Engineering, Rochester Institute of Technology
+* Expected Graduation May 2020
+
+[INTERESTS]
+* Embedded Systems
+* Cyber Security
+* Reverse Engineering
+* Computer Networking
+* Aircraft/Aerospace
+* Automation
+* Aviation
+* Swedish Automobiles
+* Web Development
