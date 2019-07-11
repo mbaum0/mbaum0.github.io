@@ -69,10 +69,11 @@ Employer: Rochester Institute of Technology, Rochester, NY, Janauary 2017-Presen
 
 [INTERESTS]
 * Embedded Systems
+* Guitar/Piano/Synthesizers
 * Cyber Security
 * Reverse Engineering
 * Computer Networking
-* Aircraft/Aerospace
+* Aircraft/Aerospace/Avionics
 * Automation
 * Aviation
 * Swedish Automobiles
