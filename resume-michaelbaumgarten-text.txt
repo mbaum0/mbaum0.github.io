@@ -5,10 +5,12 @@ Cell: 518-421-9638
 Website: www.mbaumgarten.com
 Github: www.github.com/mbaum0193
 
-[OBJECTIVE]
 
-Full-time employement opportunities related to computer engineering.
-Available May 2020.
+[EDUCATION]
+* Rochester Institute of Technology
+* Bachelor of Science in Computer Engineering
+* Expected Graduation May 2020
+* Dept GPA: 3.73
 
 [QUALIFICATIONS SUMMARY]
 
