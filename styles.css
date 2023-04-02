@@ -18,6 +18,14 @@ html{
   vertical-align: middle;
 }
 
+.big {
+  font-size: 20px;
+}
+
+.tiny {
+  font-size: 14px;
+}
+
 .links{
   text-align: justify;
   display: inline-block;
@@ -47,6 +55,6 @@ a{
   text-align: justify;
 }
 
-.ident{
+.indent{
   margin-left: 10px;
 }
