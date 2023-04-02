@@ -1,6 +1,6 @@
 html{
   font-family: monospace;
-  max-width: 600px;
+  max-width: 700px;
   padding-left: 2%;
   padding-right: 2%;
   margin: 0 auto;
@@ -24,9 +24,17 @@ html{
   width: 100%;
 }
 
+.link{
+  text-decoration: none;
+}
+
 a{
   color: black;
   font-weight: bold;
+}
+
+.section{
+  margin-top: 5ch;
 }
 
 .section-title{
@@ -37,4 +45,8 @@ a{
 .section-body{
   margin-top: 0;
   text-align: justify;
+}
+
+.ident{
+  margin-left: 10px;
 }
