@@ -1,0 +1,52 @@
+html{
+  font-family: monospace;
+  max-width: 700px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 0 auto;
+  background: #F5F5F5F1;
+  /* border: 3px solid green; */
+}
+
+.center{
+  font-size: 16px;
+  text-align: center;
+}
+
+.title-box{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.links{
+  text-align: justify;
+  display: inline-block;
+  width: 100%;
+}
+
+.link{
+  text-decoration: none;
+}
+
+a{
+  color: black;
+  font-weight: bold;
+}
+
+.section{
+  margin-top: 5ch;
+}
+
+.section-title{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.section-body{
+  margin-top: 0;
+  text-align: justify;
+}
+
+.ident{
+  margin-left: 10px;
+}
