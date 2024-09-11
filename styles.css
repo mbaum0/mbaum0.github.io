@@ -47,20 +47,29 @@ h1,h2{
   justify-content: center;
   width: 100%;
   color: orange;
+  font-size: 18px;
+}
+
+.active-link {
+  padding: 5px;
+  color: purple;
+  font-weight:bold;
 }
 
 .link{
   padding: 5px;
   color: orange;
+  font-weight:bold;
+}
+
+a.link{
+  color: yellow;
+  font-weight:unset;
+  text-decoration: none;
 }
 
 .unlink {
   text-decoration: none;
-}
-
-a{
-  font-weight: bold;
-  color: yellow;
 }
 
 .section{
