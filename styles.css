@@ -12,6 +12,7 @@ html{
 
 body{
   overflow-y: scroll;
+  background-color:unset;
 }
 
 .center{
